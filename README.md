@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Pekado941001
+- 👀 I’m interested in .Net 
+- 🌱 I’m currently learning Blazor
+- 💞️ I’m looking to collaborate on any project
